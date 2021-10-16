@@ -1,0 +1,7 @@
+{
+ "queueManagerName": "QM1",
+ "hostname": "localhost",
+ "listenerPort": 1414,
+ "applicationChannelName": "DEV.ADMIN.SVRCONN",
+ "applicationName": "go-ibmmq"
+}
